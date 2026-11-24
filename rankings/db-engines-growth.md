@@ -1,0 +1,34 @@
+# DB-Engines 数据库年度热度增长榜
+
+> 全球数据库同比热度分增长最快 TOP10
+
+- **所属领域**：开发者技术趋势
+- **最新期数**：2026-09 同比增量（采集日期：2026-09-13）
+- **数据来源**：DB-Engines Ranking（https://db-engines.com/en/ranking）
+- **在线交互版（支持筛选 / 双项对比 / 历史升降 / 一键复制命令）**：[https://aimmme.com/rankings/db-engines-growth](https://aimmme.com/rankings/db-engines-growth)
+
+## 最新榜单（2026-09-13）
+
+| 排名 | 名称 / 项目 | 机构 / 来源 | 同比热度分差 | 说明 |
+| :---: | --- | --- | --- | --- |
+| **#1** | [Databricks](https://db-engines.com/en/ranking) | — | **+44.27** | 多模型数据与分析平台 |
+| **#2** | [PostgreSQL](https://db-engines.com/en/ranking) | — | **+26.08** | 开源关系型数据库 |
+| **#3** | [Snowflake](https://db-engines.com/en/ranking) | — | **+21.42** | 云数据平台 |
+| **#4** | [Redis](https://db-engines.com/en/ranking) | — | **+12.89** | 内存数据结构存储 |
+| **#5** | [ClickHouse](https://db-engines.com/en/ranking) | — | **+5.69** | 列式分析数据库 |
+| **#6** | [Qdrant](https://db-engines.com/en/ranking) | — | **+3.38** | 向量数据库 |
+| **#7** | [Pinecone](https://db-engines.com/en/ranking) | — | **+3.09** | 托管向量数据库 |
+| **#8** | [DolphinDB](https://db-engines.com/en/ranking) | — | **+2.88** | 时序与实时分析数据库 |
+| **#9** | [H2](https://db-engines.com/en/ranking) | — | **+2.38** | Java 嵌入式关系型数据库 |
+| **#10** | [Milvus](https://db-engines.com/en/ranking) | — | **+2.33** | 开源向量数据库 |
+
+### 统计口径
+
+按 DB-Engines 官方同期对比口径，统计数据库年度热度分同比净增长（YoY score delta）。
+
+## 历史期数归档
+
+- [2026-09 同比增量](../archives/db-engines-growth/2026-09-13.md) · [在线交互版](https://aimmme.com/rankings/db-engines-growth/2026-09-13)
+
+---
+📊 **查看更多维度筛选、模型对比与完整开源索引**：[访问 AIMMME AI 榜单中心](https://aimmme.com/rankings/db-engines-growth)
