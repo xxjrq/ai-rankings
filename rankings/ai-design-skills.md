@@ -31,4 +31,4 @@
 - [2026-09-02 精选榜](../archives/ai-design-skills/2026-09-02.md) · [在线交互版](https://aimmme.com/rankings/ai-design-skills/2026-09-02)
 
 ---
-📊 **查看更多维度筛选、模型对比与完整开源索引**：[访问 AIMMME AI 榜单中心](https://aimmme.com/rankings/ai-design-skills)
+📊 **查看更多维度筛选、模型对比与完整开源索引**：[访问 AIme 榜单中心](https://aimmme.com/rankings/ai-design-skills)

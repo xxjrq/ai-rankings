@@ -31,4 +31,4 @@
 - [2026年6月月活](../archives/ai-apps-china/2026-07-14.md) · [在线交互版](https://aimmme.com/rankings/ai-apps-china/2026-07-14)
 
 ---
-📊 **查看更多维度筛选、模型对比与完整开源索引**：[访问 AIMMME AI 榜单中心](https://aimmme.com/rankings/ai-apps-china)
+📊 **查看更多维度筛选、模型对比与完整开源索引**：[访问 AIme 榜单中心](https://aimmme.com/rankings/ai-apps-china)

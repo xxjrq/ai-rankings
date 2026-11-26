@@ -330,7 +330,7 @@
     }).join('') : '<tr><td colspan="6" class="loading-cell">当前筛选条件下暂无匹配条目</td></tr>';
 
     document.getElementById('stage-methodology').innerHTML =
-      `<strong>数据口径说明：</strong>${escapeHtml(snap.methodology || '基于官方公开快照整理')} · <strong>采集日期：</strong>${escapeHtml(snap.date)} · <a href="${escapeHtml(webBoardUrl)}" target="_blank" rel="noopener noreferrer" style="color:#2563eb;font-weight:600">前往 AIMMME 主站查看该榜单完整归档 ↗</a>`;
+      `<strong>数据口径说明：</strong>${escapeHtml(snap.methodology || '基于官方公开快照整理')} · <strong>采集日期：</strong>${escapeHtml(snap.date)} · <a href="${escapeHtml(webBoardUrl)}" target="_blank" rel="noopener noreferrer" style="color:#2563eb;font-weight:600">前往 AIme 主站查看该榜单完整归档 ↗</a>`;
 
     renderComparePanel(board, snap);
   }

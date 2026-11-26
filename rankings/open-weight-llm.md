@@ -87,4 +87,4 @@
 - [2026-09-29 TOP15](../archives/open-weight-llm/2026-09-29.md) · [在线交互版](https://aimmme.com/rankings/open-weight-llm/2026-09-29)
 
 ---
-📊 **查看更多维度筛选、模型对比与完整开源索引**：[访问 AIMMME AI 榜单中心](https://aimmme.com/rankings/open-weight-llm)
+📊 **查看更多维度筛选、模型对比与完整开源索引**：[访问 AIme 榜单中心](https://aimmme.com/rankings/open-weight-llm)

@@ -32,4 +32,4 @@
 - [2026-09-27 总榜](../archives/skills-all-time/2026-09-27.md) · [在线交互版](https://aimmme.com/rankings/skills-all-time/2026-09-27)
 
 ---
-📊 **查看更多维度筛选、模型对比与完整开源索引**：[访问 AIMMME AI 榜单中心](https://aimmme.com/rankings/skills-all-time)
+📊 **查看更多维度筛选、模型对比与完整开源索引**：[访问 AIme 榜单中心](https://aimmme.com/rankings/skills-all-time)

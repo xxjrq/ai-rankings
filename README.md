@@ -1,11 +1,11 @@
-# AIMMME AI 榜单 · 开源与大模型排行榜（AIMMME AI Rankings）
+# AIme 榜单 · 开源与大模型排行榜（AIme Rankings）
 
-[![GitHub Pages 在线榜单](https://img.shields.io/badge/GitHub%20Pages%20在线榜单-AIMMME%20AI%20榜单-F59E0B?style=flat-square)](https://xxjrq.github.io/ai-rankings/) [![在线交互版](https://img.shields.io/badge/在线交互版-aimmme.com%2Frankings-2563EB?style=flat-square)](https://aimmme.com/rankings) [![榜单数量](https://img.shields.io/badge/核验榜单-21%20个-0F172A?style=flat-square)](https://aimmme.com/rankings) [![开源项目](https://img.shields.io/badge/上榜开源项目-121%20个-10B981?style=flat-square)](https://aimmme.com/projects) [![最近更新](https://img.shields.io/badge/最近更新-2026--11--20-6366F1?style=flat-square)](https://aimmme.com/rankings)
+[![GitHub Pages 在线榜单](https://img.shields.io/badge/GitHub%20Pages%20在线榜单-AIme%20榜单-F59E0B?style=flat-square)](https://xxjrq.github.io/ai-rankings/) [![在线交互版](https://img.shields.io/badge/在线交互版-aimmme.com%2Frankings-2563EB?style=flat-square)](https://aimmme.com/rankings) [![榜单数量](https://img.shields.io/badge/核验榜单-21%20个-0F172A?style=flat-square)](https://aimmme.com/rankings) [![开源项目](https://img.shields.io/badge/上榜开源项目-121%20个-10B981?style=flat-square)](https://aimmme.com/projects) [![最近更新](https://img.shields.io/badge/最近更新-2026--11--20-6366F1?style=flat-square)](https://aimmme.com/rankings)
 
 持续追踪 **GitHub 本周热门开源、Codex/Agent Skills 安装榜、全球综合大模型、国产大模型、AI 视频/图像大模型、编程 Agent 模型、OpenRouter API 调用量与全球 AI 公司实力榜**。
 
 - **GitHub Pages 交互榜单镜像站（免登录直开、含全部 21 榜 TOP 10 与真实 Logo）**：[https://xxjrq.github.io/ai-rankings/](https://xxjrq.github.io/ai-rankings/)
-- **AIMMME 官方主站交互中心（完整深度归档 + AI 图像/视频创作工作台）**：[https://aimmme.com/rankings](https://aimmme.com/rankings)
+- **AIme 官方主站交互中心（完整深度归档 + AI 图像/视频创作工作台）**：[https://aimmme.com/rankings](https://aimmme.com/rankings)
 - **上榜开源项目与 Skills 库**：[https://aimmme.com/projects](https://aimmme.com/projects)（本仓库完整索引：[OPEN_SOURCE_INDEX.md](OPEN_SOURCE_INDEX.md)）
 - **视频同源**：抖音「天丁」AI 榜单内容核验数据源
 
@@ -202,4 +202,4 @@ TIOBE 编程语言流行度与 DB-Engines 数据库年度增长榜
 
 1. 本仓库与 [https://aimmme.com/rankings](https://aimmme.com/rankings) 均基于官方公开榜单一手快照生成（Artificial Analysis、GitHub Trending、skills.sh、OpenRouter、Suyoumo、Stack Overflow Developer Survey、QuestMobile、TIOBE、DB-Engines）。
 2. 每一期榜单均保留原始采集日期与统计口径说明，不混用不同来源指标，不人为重排官方名次。
-3. 欢迎 Star / Fork 本仓库；引用数据时请注明来源 **AIMMME AI 榜单（https://aimmme.com/rankings）** 及对应官方原始出处。
+3. 欢迎 Star / Fork 本仓库；引用数据时请注明来源 **AIme 榜单（https://aimmme.com/rankings）** 及对应官方原始出处。

@@ -36,4 +36,4 @@
 - [2026-09-19 周榜](../archives/github-weekly/2026-09-19.md) · [在线交互版](https://aimmme.com/rankings/github-weekly/2026-09-19)
 
 ---
-📊 **查看更多维度筛选、模型对比与完整开源索引**：[访问 AIMMME AI 榜单中心](https://aimmme.com/rankings/github-weekly)
+📊 **查看更多维度筛选、模型对比与完整开源索引**：[访问 AIme 榜单中心](https://aimmme.com/rankings/github-weekly)

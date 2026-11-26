@@ -31,4 +31,4 @@
 - [2026-10-04 GitHub 快照](../archives/ai-agent-search/2026-10-04.md) · [在线交互版](https://aimmme.com/rankings/ai-agent-search/2026-10-04)
 
 ---
-📊 **查看更多维度筛选、模型对比与完整开源索引**：[访问 AIMMME AI 榜单中心](https://aimmme.com/rankings/ai-agent-search)
+📊 **查看更多维度筛选、模型对比与完整开源索引**：[访问 AIme 榜单中心](https://aimmme.com/rankings/ai-agent-search)
