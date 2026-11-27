@@ -3,26 +3,64 @@
 > Kimi、DeepSeek、GLM、Qwen、MiniMax 等国产头部模型月度对局榜
 
 - **所属领域**：大模型与多模态
-- **最新期数**：2026-11-20 月榜（采集日期：2026-11-20）
+- **最新期数**：2026-11-24 月榜（采集日期：2026-11-24）
 - **数据来源**：Suyoumo 国产大模型月榜（https://suyoumo.github.io/llm-leaderboard/monthly/ , https://raw.githubusercontent.com/suyoumo/suyoumo.github.io/main/_data/llm_monthly_rankings.yml）
 - **在线交互版（支持筛选 / 双项对比 / 历史升降 / 一键复制命令）**：[https://aimmme.com/rankings/domestic-llm](https://aimmme.com/rankings/domestic-llm)
 
-## 最新榜单（2026-11-20）
+## 最新榜单（2026-11-24）
 
 | 排名 | 升降 | 名称 / 项目 | 机构 / 来源 | 对局得分率 | 说明 |
 | :---: | --- | --- | --- | --- | --- |
-| **#1** | — | [Kimi K3.1 Pro](https://suyoumo.github.io/llm-leaderboard/monthly/) | Moonshot | **92.1%** | 月之暗面 |
-| **#2** | 🆕 NEW | [Qwen4-Max](https://suyoumo.github.io/llm-leaderboard/monthly/) | Qwen | **90.3%** | 通义千问 · 本期新上榜 |
-| **#3** | 🆕 NEW | [Hy4](https://suyoumo.github.io/llm-leaderboard/monthly/) | Tencent | **87.0%** | 腾讯混元 |
-| **#4** | 🆕 NEW | [ERNIE 5.5 Flash Preview](https://suyoumo.github.io/llm-leaderboard/monthly/) | Baidu | **84.6%** | 百度文心 |
-| **#5** | ↓3 | [DeepSeek-V4.1-Flash-1017](https://suyoumo.github.io/llm-leaderboard/monthly/) | DeepSeek | **84.4%** | 深度求索 |
-| **#6** | ↓2 | [Qwen3.8-Max-0902](https://suyoumo.github.io/llm-leaderboard/monthly/) | Qwen | **81.7%** | 通义千问 |
-| **#7** | 🆕 NEW | [Ling-3.1-Flash-1019](https://suyoumo.github.io/llm-leaderboard/monthly/) | InclusionAI | **80.1%** | 蚂蚁百灵 |
-| **#8** | ↓5 | [MiMo-V2.6-Pro](https://suyoumo.github.io/llm-leaderboard/monthly/) | MiMo | **79.7%** | 小米 MiMo |
-| **#9** | ↓2 | [Kimi K3](https://suyoumo.github.io/llm-leaderboard/monthly/) | Moonshot | **77.9%** | 月之暗面 |
-| **#10** | 🆕 NEW | [DeepSeek-V4.1-Flash](https://suyoumo.github.io/llm-leaderboard/monthly/) | DeepSeek | **77.2%** | 深度求索 |
-| **#11** | ↓6 | [GLM-5.3](https://suyoumo.github.io/llm-leaderboard/monthly/) | Zhipu AI | **76.5%** | 智谱 |
-| **#12** | 🆕 NEW | [LongCat-2.5](https://suyoumo.github.io/llm-leaderboard/monthly/) | Meituan | **75.2%** | 美团 LongCat |
+| **#1** | — | [Kimi K3.1 Pro](https://suyoumo.github.io/llm-leaderboard/monthly/) | Moonshot | **90.2%** | 发布：2026-10-24 |
+| **#2** | — | [Qwen4-Max](https://suyoumo.github.io/llm-leaderboard/monthly/) | Qwen | **88.8%** | 发布：2026-11-11 |
+| **#3** | — | [Hy4](https://suyoumo.github.io/llm-leaderboard/monthly/) | Tencent | **85.6%** | 发布：2026-11-04 |
+| **#4** | — | [ERNIE 5.5 Flash Preview](https://suyoumo.github.io/llm-leaderboard/monthly/) | Baidu | **84.3%** | 发布：2026-11-11 |
+| **#5** | — | [DeepSeek-V4.1-Flash-1017](https://suyoumo.github.io/llm-leaderboard/monthly/) | DeepSeek | **83.1%** | 发布：2026-10-17 |
+| **#6** | — | [Qwen3.8-Max-0902](https://suyoumo.github.io/llm-leaderboard/monthly/) | Qwen | **80.3%** | 发布：2026-09-02 |
+| **#7** | — | [Ling-3.1-Flash-1019](https://suyoumo.github.io/llm-leaderboard/monthly/) | InclusionAI | **78.8%** | 发布：2026-10-19 |
+| **#8** | — | [MiMo-V2.6-Pro](https://suyoumo.github.io/llm-leaderboard/monthly/) | MiMo | **78.6%** | 发布：2026-09-22 |
+| **#9** | 🆕 NEW | [Atria Dawn](https://suyoumo.github.io/llm-leaderboard/monthly/) | SH_AI_Lab | **78.1%** | 发布：2026-10-19 |
+| **#10** | ↓1 | [Kimi K3](https://suyoumo.github.io/llm-leaderboard/monthly/) | Moonshot | **76.0%** | 发布：2026-07-17 |
+| **#11** | — | [GLM-5.3](https://suyoumo.github.io/llm-leaderboard/monthly/) | Zhipu AI | **75.0%** | 发布：2026-08-14 |
+| **#12** | — | [LongCat-2.5](https://suyoumo.github.io/llm-leaderboard/monthly/) | Meituan | **74.0%** | 发布：2026-11-02 |
+| **#13** | 🆕 NEW | [MiniMax-M3.1-Flash](https://suyoumo.github.io/llm-leaderboard/monthly/) | MiniMax | **72.7%** | 发布：2026-10-19 |
+| **#14** | 🆕 NEW | [Atria Dawn Preview](https://suyoumo.github.io/llm-leaderboard/monthly/) | SH_AI_Lab | **72.7%** | 发布：2026-09-11 |
+| **#15** | 🆕 NEW | [Step 5 Preview](https://suyoumo.github.io/llm-leaderboard/monthly/) | StepFun | **72.1%** | 发布：2026-09-20 |
+| **#16** | ↓6 | [DeepSeek-V4.1-Flash](https://suyoumo.github.io/llm-leaderboard/monthly/) | DeepSeek | **71.8%** | 发布：2026-09-10 |
+| **#17** | 🆕 NEW | [Ling-3.1-Flash](https://suyoumo.github.io/llm-leaderboard/monthly/) | InclusionAI | **70.6%** | 发布：2026-09-30 |
+| **#18** | 🆕 NEW | [Naive-N0.5-Flash](https://suyoumo.github.io/llm-leaderboard/monthly/) | NaiveAI | **70.5%** | 发布：2026-09-27 |
+| **#19** | 🆕 NEW | [Qwen3.8-Max](https://suyoumo.github.io/llm-leaderboard/monthly/) | Qwen | **70.1%** | 发布：2026-08-04 |
+| **#20** | 🆕 NEW | [Hunyuan 4 Preview](https://suyoumo.github.io/llm-leaderboard/monthly/) | Tencent | **69.8%** | 发布：2026-08-28 |
+| **#21** | 🆕 NEW | [Qwen3.8 24T A95B](https://suyoumo.github.io/llm-leaderboard/monthly/) | Qwen | **68.0%** | 发布：2026-08-12 |
+| **#22** | 🆕 NEW | [Qwen3.8-Flash-Next](https://suyoumo.github.io/llm-leaderboard/monthly/) | Qwen | **64.8%** | 发布：2026-09-03 |
+| **#23** | 🆕 NEW | [GLM-5.3-Flash](https://suyoumo.github.io/llm-leaderboard/monthly/) | Zhipu AI | **64.0%** | 发布：2026-08-27 |
+| **#24** | 🆕 NEW | [MiMo-V2.6-Flash](https://suyoumo.github.io/llm-leaderboard/monthly/) | MiMo | **63.2%** | 发布：2026-09-22 |
+| **#25** | 🆕 NEW | [Ling-3.2-air](https://suyoumo.github.io/llm-leaderboard/monthly/) | InclusionAI | **59.4%** | 发布：2026-11-24 |
+| **#26** | 🆕 NEW | [DeepSeek-V4-Pro-0813](https://suyoumo.github.io/llm-leaderboard/monthly/) | DeepSeek | **59.4%** | 发布：2026-08-13 |
+| **#27** | 🆕 NEW | [Qwen3.8-27B](https://suyoumo.github.io/llm-leaderboard/monthly/) | Qwen | **58.4%** | 发布：2026-09-03 |
+| **#28** | 🆕 NEW | [dots3-note Preview](https://suyoumo.github.io/llm-leaderboard/monthly/) | RedNote | **56.4%** | 发布：2026-08-14 |
+| **#29** | 🆕 NEW | [GLM-5.2](https://suyoumo.github.io/llm-leaderboard/monthly/) | Zhipu AI | **56.2%** | 发布：2026-07-01 |
+| **#30** | 🆕 NEW | [DeepSeek-V4-Flash-0731](https://suyoumo.github.io/llm-leaderboard/monthly/) | DeepSeek | **55.8%** | 发布：2026-07-31 |
+| **#31** | 🆕 NEW | [DeepSeek-V4-Flash-Vision-Exp](https://suyoumo.github.io/llm-leaderboard/monthly/) | DeepSeek | **52.7%** | 发布：2026-09-03 |
+| **#32** | 🆕 NEW | [Hy4 Flash](https://suyoumo.github.io/llm-leaderboard/monthly/) | Tencent | **50.0%** | 发布：2026-11-16 |
+| **#33** | 🆕 NEW | [Qwen3.7-Max](https://suyoumo.github.io/llm-leaderboard/monthly/) | Qwen | **49.4%** | 发布：2026-05-20 |
+| **#34** | 🆕 NEW | [Kimi K2.6](https://suyoumo.github.io/llm-leaderboard/monthly/) | Moonshot | **48.1%** | 发布：2026-04-20 |
+| **#35** | 🆕 NEW | [Seed2.1 Turbo](https://suyoumo.github.io/llm-leaderboard/monthly/) | Doubao | **47.3%** | 发布：2026-06-30 |
+| **#36** | 🆕 NEW | [MiniMax-M3](https://suyoumo.github.io/llm-leaderboard/monthly/) | MiniMax | **46.4%** | 发布：2026-05-25 |
+| **#37** | 🆕 NEW | [Qwen3.6-Max-Preview](https://suyoumo.github.io/llm-leaderboard/monthly/) | Qwen | **45.1%** | 发布：2026-04-16 |
+| **#38** | 🆕 NEW | [Qwen3.7-Plus](https://suyoumo.github.io/llm-leaderboard/monthly/) | Qwen | **44.2%** | 发布：2026-05-20 |
+| **#39** | 🆕 NEW | [Kimi K2.7 Code](https://suyoumo.github.io/llm-leaderboard/monthly/) | Moonshot | **44.1%** | 发布：2026-07-01 |
+| **#40** | 🆕 NEW | [Seed2.1 Pro](https://suyoumo.github.io/llm-leaderboard/monthly/) | Doubao | **43.7%** | 发布：2026-06-30 |
+| **#41** | 🆕 NEW | [DeepSeek-V4-Pro](https://suyoumo.github.io/llm-leaderboard/monthly/) | DeepSeek | **43.5%** | 发布：2026-04-24 |
+| **#42** | 🆕 NEW | [Hunyuan 3](https://suyoumo.github.io/llm-leaderboard/monthly/) | Tencent | **41.2%** | 发布：2026-07-06 |
+| **#43** | 🆕 NEW | [DeepSeek-V4-Pro-Preview](https://suyoumo.github.io/llm-leaderboard/monthly/) | DeepSeek | **40.9%** | 发布：2026-04-24 |
+| **#44** | 🆕 NEW | [MiMo-V2.5-Pro](https://suyoumo.github.io/llm-leaderboard/monthly/) | MiMo | **40.4%** | 发布：2026-04-15 |
+| **#45** | 🆕 NEW | [GLM-5.1](https://suyoumo.github.io/llm-leaderboard/monthly/) | Zhipu AI | **40.3%** | 发布：2026-03-27 |
+| **#46** | 🆕 NEW | [DeepSeek-V4-Flash](https://suyoumo.github.io/llm-leaderboard/monthly/) | DeepSeek | **38.6%** | 发布：2026-04-24 |
+| **#47** | 🆕 NEW | [Seed2.0 Pro](https://suyoumo.github.io/llm-leaderboard/monthly/) | Doubao | **35.0%** | 发布：2026-02-14 |
+| **#48** | 🆕 NEW | [Qwen3.6-Plus](https://suyoumo.github.io/llm-leaderboard/monthly/) | Qwen | **34.1%** | 发布：2026-04-02 |
+| **#49** | 🆕 NEW | [DeepSeek-V4-Flash-Preview](https://suyoumo.github.io/llm-leaderboard/monthly/) | DeepSeek | **33.1%** | 发布：2026-04-24 |
+| **#50** | 🆕 NEW | [GLM-5](https://suyoumo.github.io/llm-leaderboard/monthly/) | Zhipu AI | **31.5%** | 发布：2026-02-11 |
 
 ### 统计口径
 
@@ -30,6 +68,7 @@
 
 ## 历史期数归档
 
+- [2026-11-24 月榜](../archives/domestic-llm/2026-11-24.md) · [在线交互版](https://aimmme.com/rankings/domestic-llm/2026-11-24)
 - [2026-11-20 月榜](../archives/domestic-llm/2026-11-20.md) · [在线交互版](https://aimmme.com/rankings/domestic-llm/2026-11-20)
 - [2026-10-25 月榜](../archives/domestic-llm/2026-10-25.md) · [在线交互版](https://aimmme.com/rankings/domestic-llm/2026-10-25)
 - [2026-10-18 月榜](../archives/domestic-llm/2026-10-18.md) · [在线交互版](https://aimmme.com/rankings/domestic-llm/2026-10-18)

@@ -3,86 +3,87 @@
 > 主流 API 与加速芯片输出吞吐量排行（Tokens/s）
 
 - **所属领域**：大模型与多模态
-- **最新期数**：2026-10-07 TOP65（采集日期：2026-10-07）
+- **最新期数**：2026-11-27 TOP65（采集日期：2026-11-27）
 - **数据来源**：Artificial Analysis Speed（https://artificialanalysis.ai/leaderboards/models）
 - **在线交互版（支持筛选 / 双项对比 / 历史升降 / 一键复制命令）**：[https://aimmme.com/rankings/llm-speed](https://aimmme.com/rankings/llm-speed)
 
-## 最新榜单（2026-10-07）
+## 最新榜单（2026-11-27）
 
 | 排名 | 升降 | 名称 / 项目 | 机构 / 来源 | 输出速度 | 说明 |
 | :---: | --- | --- | --- | --- | --- |
-| **#1** | 🆕 NEW | [Celeris-1](https://artificialanalysis.ai/models/celeris-1) | Celeris | **1522.7 tok/s** | Slug: celeris-1 |
-| **#2** | 🆕 NEW | [Mercury 2.5](https://artificialanalysis.ai/models/mercury-2-5) | Inception | **730.4 tok/s** | Slug: mercury-2-5 |
-| **#3** | 🆕 NEW | [Trinity Large Thinking](https://artificialanalysis.ai/models/trinity-large-thinking) | Arcee AI | **372.2 tok/s** | Slug: trinity-large-thinking |
-| **#4** | 🆕 NEW | [Gemini 3.5 Flash-Lite](https://artificialanalysis.ai/models/gemini-3-5-flash-lite) | Google | **348.6 tok/s** | Slug: gemini-3-5-flash-lite |
-| **#5** | 🆕 NEW | [Nova Micro](https://artificialanalysis.ai/models/nova-micro) | Amazon | **324.0 tok/s** | Slug: nova-micro |
-| **#6** | 🆕 NEW | [Ling 3.0 Flash](https://artificialanalysis.ai/models/ling-3-0-flash) | InclusionAI | **323.3 tok/s** | Slug: ling-3-0-flash |
-| **#7** | 🆕 NEW | [Ling-3.0-flash-Fin](https://artificialanalysis.ai/models/ling-3-0-flash-fin) | InclusionAI | **321.8 tok/s** | Slug: ling-3-0-flash-fin |
-| **#8** | ↓4 | [DeepSeek V4 Flash Vision](https://artificialanalysis.ai/models/deepseek-v4-flash-vision) | DeepSeek | **234.3 tok/s** | Slug: deepseek-v4-flash-vision |
-| **#9** | 🆕 NEW | [Ministral 3 3B](https://artificialanalysis.ai/models/ministral-3-3b) | Mistral | **232.3 tok/s** | Slug: ministral-3-3b |
-| **#10** | 🆕 NEW | [Qwen3.5 Omni Flash](https://artificialanalysis.ai/models/qwen3-5-omni-flash) | Alibaba | **228.5 tok/s** | Slug: qwen3-5-omni-flash |
-| **#11** | ↓8 | [DeepSeek V4.1 Flash](https://artificialanalysis.ai/models/deepseek-v4-1-flash) | DeepSeek | **227.9 tok/s** | Slug: deepseek-v4-1-flash |
-| **#12** | ↓10 | [Muse Spark 1.3](https://artificialanalysis.ai/models/muse-spark-1-3) | Meta | **219.2 tok/s** | Slug: muse-spark-1-3-xhigh |
-| **#13** | 🆕 NEW | [Granite 4.2 3B](https://artificialanalysis.ai/models/granite-4-2-3b) | IBM | **214.3 tok/s** | Slug: granite-4-2-3b |
-| **#14** | ↓13 | [Gemini 3.8 Flash](https://artificialanalysis.ai/models/gemini-3-8-flash) | Google | **214.0 tok/s** | Slug: gemini-3-8-flash |
-| **#15** | 🆕 NEW | [Ling 3.1 Flash](https://artificialanalysis.ai/models/ling-3-1-flash) | InclusionAI | **210.2 tok/s** | Slug: ling-3-1-flash |
-| **#16** | 🆕 NEW | [Nova 2.0 Lite](https://artificialanalysis.ai/models/nova-2-0-lite) | Amazon | **203.6 tok/s** | Slug: nova-2-0-lite-reasoning |
-| **#17** | ↓12 | [Inkling Small](https://artificialanalysis.ai/models/inkling-small) | Thinking Machines | **200.9 tok/s** | Slug: inkling-small |
-| **#18** | 🆕 NEW | [NVIDIA Nemotron Nano 12B v2 VL](https://artificialanalysis.ai/models/nvidia-nemotron-nano-12b-v2-vl) | NVIDIA | **198.6 tok/s** | Slug: nvidia-nemotron-nano-12b-v2-vl |
-| **#19** | 🆕 NEW | [Inkling](https://artificialanalysis.ai/models/inkling) | Thinking Machines | **189.4 tok/s** | Slug: inkling |
-| **#20** | 🆕 NEW | [Qwen3 Next 80B A3B (Reasoning)](https://artificialanalysis.ai/models/qwen3-next-80b-a3b) | Alibaba | **188.3 tok/s** | Slug: qwen3-next-80b-a3b-reasoning |
-| **#21** | 🆕 NEW | [Qwen3 Next 80B A3B Instruct](https://artificialanalysis.ai/models/qwen3-next-80b-a3b-instruct) | Alibaba | **179.8 tok/s** | Slug: qwen3-next-80b-a3b-instruct |
-| **#22** | 🆕 NEW | [Mistral Small 4](https://artificialanalysis.ai/models/mistral-small-4) | Mistral | **171.3 tok/s** | Slug: mistral-small-4 |
-| **#23** | 🆕 NEW | [Mistral Medium 3.5](https://artificialanalysis.ai/models/mistral-medium-3-5) | Mistral | **170.0 tok/s** | Slug: mistral-medium-3-5 |
-| **#24** | 🆕 NEW | [Command A+](https://artificialanalysis.ai/models/command-a-plus) | Cohere | **151.7 tok/s** | Slug: command-a-plus |
-| **#25** | 🆕 NEW | [Quasar 438B](https://artificialanalysis.ai/models/quasar-438b) | Multiverse Computing | **150.6 tok/s** | Slug: quasar-438b |
-| **#26** | 🆕 NEW | [Qwen3.6 35B A3B](https://artificialanalysis.ai/models/qwen3-6-35b-a3b) | Alibaba | **146.0 tok/s** | Slug: qwen3-6-35b-a3b-non-reasoning |
-| **#27** | 🆕 NEW | [Ling-3.0-flash-VL](https://artificialanalysis.ai/models/ling-3-0-flash-vl) | InclusionAI | **143.0 tok/s** | Slug: ling-3-0-flash-vl |
-| **#28** | 🆕 NEW | [Qwen3.5 122B A10B](https://artificialanalysis.ai/models/qwen3-5-122b-a10b) | Alibaba | **142.3 tok/s** | Slug: qwen3-5-122b-a10b-non-reasoning |
-| **#29** | 🆕 NEW | [GPT-5.5 Instant (June 2026)](https://artificialanalysis.ai/models/gpt-5-5-instant-06-26) | OpenAI | **138.3 tok/s** | Slug: gpt-5-5-instant-06-26 |
-| **#30** | ↓23 | [GPT-6 Luna](https://artificialanalysis.ai/models/gpt-6-luna) | OpenAI | **135.6 tok/s** | Slug: gpt-6-luna-low |
-| **#31** | 🆕 NEW | [Claude Sonnet 5.5](https://artificialanalysis.ai/models/claude-sonnet-5-5) | Anthropic | **131.4 tok/s** | Slug: claude-sonnet-5-5 |
-| **#32** | 🆕 NEW | [o3](https://artificialanalysis.ai/models/o3) | OpenAI | **129.4 tok/s** | Slug: o3 |
-| **#33** | 🆕 NEW | [Nova 2.0 Pro Preview](https://artificialanalysis.ai/models/nova-2-0-pro-preview) | Amazon | **128.0 tok/s** | Slug: nova-2-0-pro-reasoning-medium |
-| **#34** | ↓24 | [GPT-5.6 Terra](https://artificialanalysis.ai/models/gpt-5-6-terra) | OpenAI | **125.0 tok/s** | Slug: gpt-5-6-terra |
-| **#35** | ↓27 | [Gemini 3.1 Pro Preview](https://artificialanalysis.ai/models/gemini-3-1-pro-preview) | Google | **122.5 tok/s** | Slug: gemini-3-1-pro-preview |
-| **#36** | 🆕 NEW | [K2 Horizon 375B A23B](https://artificialanalysis.ai/models/k2-horizon-375b-a23b) | Institute of Foundation Models | **118.6 tok/s** | Slug: k2-horizon-375b-a23b |
-| **#37** | 🆕 NEW | [Claude 4.5 Haiku](https://artificialanalysis.ai/models/claude-4-5-haiku) | Anthropic | **116.6 tok/s** | Slug: claude-4-5-haiku-reasoning |
-| **#38** | ↓29 | [GPT-5.3 Codex](https://artificialanalysis.ai/models/gpt-5-3-codex) | OpenAI | **116.2 tok/s** | Slug: gpt-5-3-codex |
-| **#39** | 🆕 NEW | [Mistral Large 4 Preview](https://artificialanalysis.ai/models/mistral-large-4) | Mistral | **116.1 tok/s** | Slug: mistral-large-4 |
-| **#40** | 🆕 NEW | [Gemma 4 12B](https://artificialanalysis.ai/models/gemma-4-12b) | Google | **115.3 tok/s** | Slug: gemma-4-12b-non-reasoning |
-| **#41** | ↓29 | [Solar Pro 4](https://artificialanalysis.ai/models/solar-pro4) | Upstage | **115.2 tok/s** | Slug: solar-pro4 |
-| **#42** | 🆕 NEW | [Qwen3.5 Omni Plus](https://artificialanalysis.ai/models/qwen3-5-omni-plus) | Alibaba | **111.5 tok/s** | Slug: qwen3-5-omni-plus |
-| **#43** | 🆕 NEW | [Ring-2.6-1T](https://artificialanalysis.ai/models/ring-2-6-1t) | InclusionAI | **110.8 tok/s** | Slug: ring-2-6-1t |
-| **#44** | 🆕 NEW | [Qwen3 Omni 30B A3B (Reasoning)](https://artificialanalysis.ai/models/qwen3-omni-30b-a3b) | Alibaba | **102.7 tok/s** | Slug: qwen3-omni-30b-a3b-reasoning |
-| **#45** | ↓34 | [DeepSeek V4 Pro 0813](https://artificialanalysis.ai/models/deepseek-v4-pro) | DeepSeek | **100.9 tok/s** | Slug: deepseek-v4-pro |
-| **#46** | 🆕 NEW | [Ministral 3 8B](https://artificialanalysis.ai/models/ministral-3-8b) | Mistral | **99.9 tok/s** | Slug: ministral-3-8b |
-| **#47** | ↓41 | [MiniMax-M3](https://artificialanalysis.ai/models/minimax-m3) | MiniMax | **99.0 tok/s** | Slug: minimax-m3 |
-| **#48** | ↓35 | [Claude Opus 5.5](https://artificialanalysis.ai/models/claude-opus-5-5) | Anthropic | **97.4 tok/s** | Slug: claude-opus-5-5 |
-| **#49** | 🆕 NEW | [Qwen3 Omni 30B A3B Instruct](https://artificialanalysis.ai/models/qwen3-omni-30b-a3b-instruct) | Alibaba | **96.2 tok/s** | Slug: qwen3-omni-30b-a3b-instruct |
-| **#50** | 🆕 NEW | [Grok 4.7](https://artificialanalysis.ai/models/grok-4-7) | SpaceXAI | **95.7 tok/s** | Slug: grok-4-7-high |
-| **#51** | 🆕 NEW | [Reka Flash 3](https://artificialanalysis.ai/models/reka-flash-3) | Reka AI | **93.7 tok/s** | Slug: reka-flash-3 |
-| **#52** | 🆕 NEW | [Ministral 3 14B](https://artificialanalysis.ai/models/ministral-3-14b) | Mistral | **90.0 tok/s** | Slug: ministral-3-14b |
-| **#53** | 🆕 NEW | [Qwen3.5 397B A17B](https://artificialanalysis.ai/models/qwen3-5-397b-a17b) | Alibaba | **89.9 tok/s** | Slug: qwen3-5-397b-a17b |
-| **#54** | 🆕 NEW | [Step 5 Preview](https://artificialanalysis.ai/models/step-5-preview) | StepFun | **89.7 tok/s** | Slug: step-5 |
-| **#55** | 🆕 NEW | [Solar Mini 4](https://artificialanalysis.ai/models/solar-mini4) | Upstage | **88.6 tok/s** | Slug: solar-mini4 |
-| **#56** | 🆕 NEW | [Qwen3.5 9B](https://artificialanalysis.ai/models/qwen3-5-9b) | Alibaba | **85.6 tok/s** | Slug: qwen3-5-9b-non-reasoning |
-| **#57** | 🆕 NEW | [Kimi K2.7 Code](https://artificialanalysis.ai/models/kimi-k2-7-code) | Kimi | **84.0 tok/s** | Slug: kimi-k2-7-code |
-| **#58** | 🆕 NEW | [North Mini Code](https://artificialanalysis.ai/models/north-mini-code) | Cohere | **82.6 tok/s** | Slug: north-mini-code |
-| **#59** | ↓45 | [GLM-5.3](https://artificialanalysis.ai/models/glm-5-3) | Z AI | **81.3 tok/s** | Slug: glm-5-3-low |
-| **#60** | 🆕 NEW | [Mistral Large 3](https://artificialanalysis.ai/models/mistral-large-3) | Mistral | **81.1 tok/s** | Slug: mistral-large-3 |
-| **#61** | 🆕 NEW | [Granite 4.2 30B](https://artificialanalysis.ai/models/granite-4-2-30b) | IBM | **75.0 tok/s** | Slug: granite-4-2-30b |
-| **#62** | 🆕 NEW | [Claude Fable 5.1](https://artificialanalysis.ai/models/claude-fable-5-1) | Anthropic | **64.1 tok/s** | Slug: claude-fable-5-1-xhigh |
-| **#63** | 🆕 NEW | [Command A](https://artificialanalysis.ai/models/command-a) | Cohere | **63.5 tok/s** | Slug: command-a |
-| **#64** | 🆕 NEW | [GPT-6 Astra](https://artificialanalysis.ai/models/gpt-6-astra) | OpenAI | **62.1 tok/s** | Slug: gpt-6-astra |
-| **#65** | 🆕 NEW | [MiMo-V2.6-Flash](https://artificialanalysis.ai/models/mimo-v2-6-flash) | Xiaomi | **62.0 tok/s** | Slug: mimo-v2-6-flash |
+| **#1** | — | [Celeris-1](https://artificialanalysis.ai/models/celeris-1) | Celeris | **760.7 tok/s** | — |
+| **#2** | — | [Mercury 2.5](https://artificialanalysis.ai/models/mercury-2-5) | Inception | **479.6 tok/s** | — |
+| **#3** | 🆕 NEW | [Muse Ember (xhigh)](https://artificialanalysis.ai/models/muse-ember) | Meta | **394.4 tok/s** | — |
+| **#4** | 🆕 NEW | [Beam 1.0](https://artificialanalysis.ai/models/reflection-beam) | Reflection | **383.0 tok/s** | — |
+| **#5** | 🆕 NEW | [Muse Ember (max)](https://artificialanalysis.ai/models/muse-ember) | Meta | **373.3 tok/s** | — |
+| **#6** | 🆕 NEW | [Nemotron 3.5 Super VL](https://artificialanalysis.ai/models/nemotron-3-5-super-vl) | NVIDIA | **344.7 tok/s** | — |
+| **#7** | 🆕 NEW | [LFM3-VL-2B](https://artificialanalysis.ai/models/lfm3-vl-2b) | Liquid AI | **338.8 tok/s** | — |
+| **#8** | 🆕 NEW | [LFM3-1.7B](https://artificialanalysis.ai/models/lfm3-1-7b) | Liquid AI | **334.9 tok/s** | — |
+| **#9** | ↑27 | [K2 Horizon 375B A23B](https://artificialanalysis.ai/models/k2-horizon-375b-a23b) | Institute of Foundation Models | **327.6 tok/s** | — |
+| **#10** | 🆕 NEW | [Nemotron 3.5 Lightning](https://artificialanalysis.ai/models/nemotron-3-5-lightning) | NVIDIA | **312.0 tok/s** | — |
+| **#11** | ↓7 | [Gemini 3.5 Flash-Lite](https://artificialanalysis.ai/models/gemini-3-5-flash-lite) | Google | **306.1 tok/s** | — |
+| **#12** | ↑46 | [North Mini Code](https://artificialanalysis.ai/models/north-mini-code) | Cohere | **275.5 tok/s** | — |
+| **#13** | 🆕 NEW | [Claude Haiku 5.5 (max)](https://artificialanalysis.ai/models/claude-haiku-5-5) | Anthropic | **259.4 tok/s** | — |
+| **#14** | 🆕 NEW | [Claude Haiku 5.5 (xhigh)](https://artificialanalysis.ai/models/claude-haiku-5-5) | Anthropic | **237.5 tok/s** | — |
+| **#15** | 🆕 NEW | [Claude Haiku 5.5 (high)](https://artificialanalysis.ai/models/claude-haiku-5-5) | Anthropic | **231.7 tok/s** | — |
+| **#16** | ↓11 | [Nova Micro](https://artificialanalysis.ai/models/nova-micro) | Amazon | **231.5 tok/s** | — |
+| **#17** | 🆕 NEW | [Sarvam 105B (high)](https://artificialanalysis.ai/models/sarvam-105b) | Sarvam | **229.8 tok/s** | — |
+| **#18** | 🆕 NEW | [Claude Haiku 5.5 (medium)](https://artificialanalysis.ai/models/claude-haiku-5-5) | Anthropic | **223.9 tok/s** | — |
+| **#19** | 🆕 NEW | [Claude Haiku 5.5 (low)](https://artificialanalysis.ai/models/claude-haiku-5-5) | Anthropic | **223.4 tok/s** | — |
+| **#20** | ↑4 | [Command A+](https://artificialanalysis.ai/models/command-a-plus) | Cohere | **198.4 tok/s** | — |
+| **#21** | 🆕 NEW | [gpt-oss-120b (high)](https://artificialanalysis.ai/models/gpt-oss-120b) | OpenAI | **197.9 tok/s** | — |
+| **#22** | 🆕 NEW | [Nemotron 3 Ultra](https://artificialanalysis.ai/models/nemotron-3-ultra-550b-a55b) | NVIDIA | **188.3 tok/s** | — |
+| **#23** | 🆕 NEW | [Ling 3.0 Tiny](https://artificialanalysis.ai/models/ling-3-0-tiny) | InclusionAI | **185.1 tok/s** | — |
+| **#24** | 🆕 NEW | [ERNIE 5.5 Flash Preview](https://artificialanalysis.ai/models/ernie-5-5-flash) | Baidu | **185.0 tok/s** | — |
+| **#25** | 🆕 NEW | [Gemini 4 Hydrogen (high)](https://artificialanalysis.ai/models/gemini-4-hydrogen) | Google | **184.2 tok/s** | — |
+| **#26** | 🆕 NEW | [DeepSeek V4.1 Flash 1017 (high)](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017) | DeepSeek | **183.5 tok/s** | — |
+| **#27** | 🆕 NEW | [Muse Spark Open (xhigh)](https://artificialanalysis.ai/models/muse-spark-open) | Meta | **182.5 tok/s** | — |
+| **#28** | 🆕 NEW | [DeepSeek V4.1 Flash 1017 (max)](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017) | DeepSeek | **179.8 tok/s** | — |
+| **#29** | ↓20 | [Ministral 3 3B](https://artificialanalysis.ai/models/ministral-3-3b) | Mistral | **177.6 tok/s** | — |
+| **#30** | 🆕 NEW | [gpt-oss-120b (low)](https://artificialanalysis.ai/models/gpt-oss-120b) | OpenAI | **177.3 tok/s** | — |
+| **#31** | ↓23 | [DeepSeek V4 Flash Vision (max)](https://artificialanalysis.ai/models/deepseek-v4-flash-vision) | DeepSeek | **175.8 tok/s** | — |
+| **#32** | 🆕 NEW | [Inkling 2 Mini](https://artificialanalysis.ai/models/inkling-2-mini) | Thinking Machines | **174.5 tok/s** | — |
+| **#33** | 🆕 NEW | [Gemini 4 Hydrogen (xhigh)](https://artificialanalysis.ai/models/gemini-4-hydrogen) | Google | **174.1 tok/s** | — |
+| **#34** | 🆕 NEW | [DeepSeek V4.1 Flash 1017 (non-reasoning)](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017) | DeepSeek | **171.4 tok/s** | — |
+| **#35** | 🆕 NEW | [Gemini 4 Hydrogen (medium)](https://artificialanalysis.ai/models/gemini-4-hydrogen) | Google | **171.1 tok/s** | — |
+| **#36** | 🆕 NEW | [Nemotron 3 Nano](https://artificialanalysis.ai/models/nvidia-nemotron-3-nano-30b-a3b) | NVIDIA | **170.7 tok/s** | — |
+| **#37** | 🆕 NEW | [NVIDIA Nemotron Nano 9B V2 (non-reasoning)](https://artificialanalysis.ai/models/nvidia-nemotron-nano-9b-v2) | NVIDIA | **154.2 tok/s** | — |
+| **#38** | ↓7 | [Claude Sonnet 5.5 (max)](https://artificialanalysis.ai/models/claude-sonnet-5-5) | Anthropic | **154.0 tok/s** | — |
+| **#39** | 🆕 NEW | [Agnes 2.5 Pro Theta](https://artificialanalysis.ai/models/agnes-2-5-pro-theta) | Sapiens AI | **152.8 tok/s** | — |
+| **#40** | ↓18 | [Mistral Small 4](https://artificialanalysis.ai/models/mistral-small-4) | Mistral | **152.7 tok/s** | — |
+| **#41** | ↓31 | [Qwen3.5 Omni Flash](https://artificialanalysis.ai/models/qwen3-5-omni-flash) | Alibaba | **152.6 tok/s** | — |
+| **#42** | 🆕 NEW | [Gemini 4 Hydrogen (low)](https://artificialanalysis.ai/models/gemini-4-hydrogen) | Google | **152.4 tok/s** | — |
+| **#43** | 🆕 NEW | [gpt-oss-20b (low)](https://artificialanalysis.ai/models/gpt-oss-20b) | OpenAI | **151.9 tok/s** | — |
+| **#44** | ↓13 | [Claude Sonnet 5.5 (xhigh)](https://artificialanalysis.ai/models/claude-sonnet-5-5) | Anthropic | **151.2 tok/s** | — |
+| **#45** | 🆕 NEW | [NVIDIA Nemotron Nano 9B V2](https://artificialanalysis.ai/models/nvidia-nemotron-nano-9b-v2) | NVIDIA | **150.0 tok/s** | — |
+| **#46** | 🆕 NEW | [Apodex 1.1](https://artificialanalysis.ai/models/apodex-1-1) | Apodex | **143.8 tok/s** | — |
+| **#47** | ↓18 | [GPT-5.5 Instant (June 2026)](https://artificialanalysis.ai/models/gpt-5-5-instant-06-26) | OpenAI | **143.7 tok/s** | — |
+| **#48** | ↓17 | [Claude Sonnet 5.5 (high)](https://artificialanalysis.ai/models/claude-sonnet-5-5) | Anthropic | **143.5 tok/s** | — |
+| **#49** | ↓26 | [Mistral Medium 3.5](https://artificialanalysis.ai/models/mistral-medium-3-5) | Mistral | **141.2 tok/s** | — |
+| **#50** | ↓34 | [Nova 2.0 Lite (high)](https://artificialanalysis.ai/models/nova-2-0-lite) | Amazon | **141.2 tok/s** | — |
+| **#51** | ↓20 | [Claude Sonnet 5.5 (medium)](https://artificialanalysis.ai/models/claude-sonnet-5-5) | Anthropic | **140.5 tok/s** | — |
+| **#52** | ↓36 | [Nova 2.0 Lite (low)](https://artificialanalysis.ai/models/nova-2-0-lite) | Amazon | **137.5 tok/s** | — |
+| **#53** | ↓22 | [Claude Sonnet 5.5 (low)](https://artificialanalysis.ai/models/claude-sonnet-5-5) | Anthropic | **135.2 tok/s** | — |
+| **#54** | 🆕 NEW | [MiniMax-M3.1-Flash](https://artificialanalysis.ai/models/minimax-m3-1-flash) | MiniMax | **131.9 tok/s** | — |
+| **#55** | ↓33 | [Mistral Small 4 (non-reasoning)](https://artificialanalysis.ai/models/mistral-small-4) | Mistral | **131.1 tok/s** | — |
+| **#56** | 🆕 NEW | [Tiny Aya Global](https://artificialanalysis.ai/models/tiny-aya-global) | Cohere | **130.9 tok/s** | — |
+| **#57** | ↓39 | [NVIDIA Nemotron Nano 12B v2 VL (non-reasoning)](https://artificialanalysis.ai/models/nvidia-nemotron-nano-12b-v2-vl) | NVIDIA | **129.4 tok/s** | — |
+| **#58** | ↓28 | [GPT-6 Luna (max)](https://artificialanalysis.ai/models/gpt-6-luna) | OpenAI | **129.1 tok/s** | — |
+| **#59** | ↓43 | [Nova 2.0 Lite (medium)](https://artificialanalysis.ai/models/nova-2-0-lite) | Amazon | **125.3 tok/s** | — |
+| **#60** | ↓30 | [GPT-6 Luna (high)](https://artificialanalysis.ai/models/gpt-6-luna) | OpenAI | **123.8 tok/s** | — |
+| **#61** | ↓6 | [Solar Mini 4](https://artificialanalysis.ai/models/solar-mini4) | Upstage | **121.9 tok/s** | — |
+| **#62** | ↓32 | [GPT-6 Luna (xhigh)](https://artificialanalysis.ai/models/gpt-6-luna) | OpenAI | **121.8 tok/s** | — |
+| **#63** | ↓31 | [o3](https://artificialanalysis.ai/models/o3) | OpenAI | **120.2 tok/s** | — |
+| **#64** | ↓16 | [Claude Opus 5.5 (max)](https://artificialanalysis.ai/models/claude-opus-5-5) | Anthropic | **118.4 tok/s** | — |
+| **#65** | 🆕 NEW | [gpt-oss-20b (high)](https://artificialanalysis.ai/models/gpt-oss-20b) | OpenAI | **118.2 tok/s** | — |
 
 ### 统计口径
 
-按 Artificial Analysis 官方输出吞吐量（tokens/s）降序排序（TOP65）。
+按 Artificial Analysis 官方输出吞吐量（tokens/s）降序排序。
 
 ## 历史期数归档
 
+- [2026-11-27 TOP65](../archives/llm-speed/2026-11-27.md) · [在线交互版](https://aimmme.com/rankings/llm-speed/2026-11-27)
 - [2026-10-07 TOP65](../archives/llm-speed/2026-10-07.md) · [在线交互版](https://aimmme.com/rankings/llm-speed/2026-10-07)
 - [2026-09-29 TOP15](../archives/llm-speed/2026-09-29.md) · [在线交互版](https://aimmme.com/rankings/llm-speed/2026-09-29)
 

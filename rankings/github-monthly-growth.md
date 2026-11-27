@@ -3,31 +3,32 @@
 > 单月新增 Star 最多的黑马开源项目
 
 - **所属领域**：GitHub 开源热榜
-- **最新期数**：2026年10月增量（采集日期：2026-11-02）
-- **数据来源**：GitHub 月度增量快照（https://gittrend.io/monthly/2026-10 , https://gittrend.io/methodology , https://api.github.com/repos/morluto/rea , https://github.com/morluto/rea#readme , https://api.github.com/repos/storytold/photocraft , https://github.com/storytold/photocraft#readme , https://api.github.com/repos/Ebony-Vinyl/dsh-our-free-model , https://github.com/Ebony-Vinyl/dsh-our-free-model#readme , https://api.github.com/repos/Gathin23/cleanyourtv , https://github.com/Gathin23/cleanyourtv#readme , https://api.github.com/repos/boykopovar/AnyPS5 , https://github.com/boykopovar/AnyPS5#readme , https://api.github.com/repos/debpalash/VoiceStudio , https://github.com/debpalash/VoiceStudio#readme , https://api.github.com/repos/eternity4719/HowToLiveBetter , https://github.com/eternity4719/HowToLiveBetter#readme , https://api.github.com/repos/storytold/artcraft , https://github.com/storytold/artcraft#readme , https://api.github.com/repos/mattpocock/skills , https://github.com/mattpocock/skills#readme , https://api.github.com/repos/Niko1221/Strata , https://github.com/Niko1221/Strata#readme , https://avatars.githubusercontent.com/u/76467478?v=4 , https://avatars.githubusercontent.com/u/76897702?v=4 , https://avatars.githubusercontent.com/u/245557608?v=4 , https://avatars.githubusercontent.com/u/94786511?v=4 , https://avatars.githubusercontent.com/u/184076081?v=4 , https://avatars.githubusercontent.com/u/4178343?v=4 , https://avatars.githubusercontent.com/u/230156667?v=4 , https://avatars.githubusercontent.com/u/28293365?v=4 , https://avatars.githubusercontent.com/u/86886444?v=4）
+- **最新期数**：2026-11 月度增量（采集日期：2026-11-27）
+- **数据来源**：GitHub Trending Monthly（https://github.com/trending?since=monthly）
 - **在线交互版（支持筛选 / 双项对比 / 历史升降 / 一键复制命令）**：[https://aimmme.com/rankings/github-monthly-growth](https://aimmme.com/rankings/github-monthly-growth)
 
-## 最新榜单（2026-11-02）
+## 最新榜单（2026-11-27）
 
-| 排名 | 名称 / 项目 | 机构 / 来源 | 单月新增 Star | 说明 |
-| :---: | --- | --- | --- | --- |
-| **#1** | [morluto/rea](https://github.com/morluto/rea) | morluto | **+415.3k** | 用 Agent 对软件行为进行逆向分析，覆盖从应用界面到原生二进制。 |
-| **#2** | [storytold/photocraft](https://github.com/storytold/photocraft) | storytold | **+75.5k** | 用 Rust 编写的开源照片编辑器。 |
-| **#3** | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | Ebony-Vinyl | **+53.9k** | 在 dsh 中接入多个可选模型的插件。 |
-| **#4** | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Gathin23 | **+47.7k** | 通过 Wi-Fi 管理 Android 或 Google TV，并调整电视主界面。 |
-| **#5** | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | boykopovar | **+47.6k** | 自动化将 PS5 可执行文件移植到 Linux 和 Windows。 |
-| **#6** | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | debpalash | **+46.4k** | 本地语音工具集合，涵盖语音克隆、配音、转录等工作流。 |
-| **#7** | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | eternity4719 | **+39.8k** | 汇总生活与办事主题的参考指南。 |
-| **#8** | [storytold/artcraft](https://github.com/storytold/artcraft) | storytold | **+35.9k** | 面向创作者的手工制作引擎。 |
-| **#9** | [mattpocock/skills](https://github.com/mattpocock/skills) | mattpocock | **+35.4k** | 收录面向软件工程工作的 Agent Skills。 |
-| **#10** | [Niko1221/Strata](https://github.com/Niko1221/Strata) | Niko1221 | **+34.0k** | 面向消费级硬件的本地推理引擎，并提供 API 接口。 |
+| 排名 | 升降 | 名称 / 项目 | 机构 / 来源 | 单月新增 Star | 说明 |
+| :---: | --- | --- | --- | --- | --- |
+| **#1** | 🆕 NEW | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Nutlope | **+26,738** | Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| **#2** | 🆕 NEW | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | cloudflare | **+31,165** | Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| **#3** | 🆕 NEW | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | milind-soni | **+22,590** | Sponsor Star milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual machine that bots can use |
+| **#4** | 🆕 NEW | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | pingdotgg | **+50,354** | Star pingdotgg / t3code The best way to control Claude Code, Codex and more from any computer or phone |
+| **#5** | 🆕 NEW | [anthropics/skills](https://github.com/anthropics/skills) | anthropics | **+17,538** | Star anthropics / skills Public repository for Agent Skills |
+| **#6** | 🆕 NEW | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | thedotmack | **+17,325** | Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| **#7** | 🆕 NEW | [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) | Jakeschincariol | **+6,511** | Star Jakeschincariol / instagram-agent-skill Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT. |
+| **#8** | 🆕 NEW | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | backnotprop | **+5,601** | Star backnotprop / plannotator The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
+| **#9** | ↓6 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | Ebony-Vinyl | **+46,809** | 在 dsh 中接入多个可选模型的插件。 |
+| **#10** | 🆕 NEW | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | HKUDS | **+20,206** | Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
 
 ### 统计口径
 
-统计 2026 年 10 月区间内 GitHub 仓库新增 Star 数量排名前 10 的项目。
+直接抓取 GitHub Trending 月榜页面原始排序与本月新增 Star 数。
 
 ## 历史期数归档
 
+- [2026-11 月度增量](../archives/github-monthly-growth/2026-11-27.md) · [在线交互版](https://aimmme.com/rankings/github-monthly-growth/2026-11-27)
 - [2026年10月增量](../archives/github-monthly-growth/2026-11-02.md) · [在线交互版](https://aimmme.com/rankings/github-monthly-growth/2026-11-02)
 
 ---
